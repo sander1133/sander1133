@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.tribum.nl/new/antem/images/antem-logo.svg" alt="Antem ERP logo" width="220" />
+  <img src="https://www.tribum.nl/new/antem/images/antem-logo.svg" alt="Antem ERP logo" width="225" />
 </p>
 
 # 👋 Hi, I'm Sander Stam
